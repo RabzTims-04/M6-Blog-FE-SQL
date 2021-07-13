@@ -1,1 +1,1 @@
-# M6-Blog-FE-SQL
+# Strive Blog Template
